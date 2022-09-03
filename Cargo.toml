@@ -1,3 +1,4 @@
+workspace = {members = ["practice"],exclude = []}
 [package]
 name = "AtCoder-Rust"
 version = "0.1.0"
